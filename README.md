@@ -118,3 +118,6 @@ To track monthly spending patterns
 To identify cost-saving opportunities
 
 To create an interactive and easy-to-understand financial dashboard
+
+
+SNAPSHOT :-https://github.com/irfu11/Personal-credit-card-dashboard-/blob/main/demo.png
